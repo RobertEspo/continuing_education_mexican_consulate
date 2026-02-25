@@ -1,6 +1,6 @@
 ---
-title: "La lengua, los trabajos y la educación"
-author: "Robert Esposito y Dra. Laura Ramirez-Polo"
+title: "Lengua, trabajos y educación"
+author: "Robert Esposito y Dra. Laura Ramírez-Polo"
 institute: "Rutgers University"
 date: "Last update: `r Sys.Date()`"
 format: rutgers-revealjs
@@ -30,7 +30,7 @@ set.seed(20250223)
 library("tidyverse")
 library("here")
 library("knitr")
-library(flextable)
+library("flextable")
 
 theme_psllt <- function(...) {
   list(
@@ -47,13 +47,13 @@ theme_set(theme_grey(base_size = 30))
 
 ```
 
-# Los fundamentales {.transition}
+# Fundamentos {.transition}
 
 ## ¿Qué vamos a ver?
 
 ::: {.fragment .fade-up}
 ::: {.fragment .semi-fade-out}
-La lengua y trabajos profesionales
+La lengua y los trabajos profesionales
 :::
 :::
 
@@ -96,7 +96,7 @@ https://www.njspotlightnews.org/special-report/housing-matters-lot-nj-hispanic-v
 There are a lot of people who are bilingual in NJ; the majority of them are Spanish-English bilinguals.
 :::
 
-## La necesidad de más bilingües en la fuerza laboral
+## Mano de obra bilingües: una necesidad creciente
 
 - En 2014, 1 de cada 5 trabajos pedía un hablante bilingüe
 
@@ -233,19 +233,19 @@ https://www.americanimmigrationcouncil.org/wp-content/uploads/2016/05/NJ-Biliter
 This is from 2010-2014 -- imagine now!
 :::
 
-# La traducción e interpretación {.transition}
+# Traducción e interpretación {.transition}
 
 ::: notes
 Let's focus on just one industry now.
 :::
 
-## La traducción e interpretación
+## Traducción e interpretación
 
 ::: {.fragment .fade-up}
 - ¿Cuál es la diferencia entre la traducción y la interpretación?
 :::
 ::: {.fragment .fade-up}
-- ¿Alguna vez han contratado a un traductor? A un intérprete?
+- ¿Alguna vez han contratado a un traductor? ¿A un intérprete?
 :::
 
 ::: notes
@@ -293,7 +293,8 @@ Comment on what "agencias de traducción/interpretación actually involves and t
 
 - Ser bilingüe es el primer paso
 - Para conseguir un trabajo especializado, hay que...
-  - no actuar de instinto 
+  - tener un dominio avanzado de las lenguas de trabajo
+  - no actuar por instinto 
   - saber las normas de la industria
   - tomar decisiones basadas en teorías
 
@@ -324,9 +325,9 @@ Comment on what "agencias de traducción/interpretación actually involves and t
 
 ## ¿Qué hacemos?
 
-- Estudiamos el lenguaje de una perspectiva científica
-- Aprendes [el método científico]{.emph}
-- Tenemos estudiantes de las facultades de...
+- Estudiamos la lengua desde una perspectiva científica
+- Aprendemos [el método científico]{.emph}
+- Tenemos estudiantes de las escuelas de...
   - psicología, neurología, biología, química, ingeniería...
 
 :::: {.columns}
@@ -345,7 +346,7 @@ For example, using eeg or eye tracking.
 
 ## La enseñanza
 
-- En NJ y NYC, hay una falta de maestros/as bilingües
+- En NJ y NYC hay una falta de maestros/as bilingües
 - Ofrecemos una [maestría]{.emph} en español para enseñar
 
 ::: footer 
@@ -356,7 +357,7 @@ https://www.nj.gov/education/certification/cte/altroute/
 
 # La educación 
 
-## El Sello de alfabetización bilingüe
+## El sello de alfabetización bilingüe
 
 - "Seal of Biliteracy"
 - Ortogado por el Departamento de Educación de New Jersey
@@ -371,16 +372,21 @@ https://docs.google.com/spreadsheets/u/0/d/19oZOSGoy9Maurn0RCq8C4eC1eS7e0qU6/htm
 https://www.nj.gov/education/standards/worldlang/SealofBiliteracy.shtml
 :::
 
-## Gracias! {.final visibility="uncounted"}
+## ¿Preguntas? {.final visibility="uncounted"}
 
 ![](https://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png){.absolute top="0" right="0" width="55" height="55"}
 
-</br>
-
-
-<br>
+![](assets/qr_slides.png)
 
 <table style="border-collapse: collapse; border: none;">
+  
+  <tr>
+    <td style="text-align: right; padding-right: 10px;">
+      <a href="mailto:ramirez.laura@rutgers.edu">{{< fa solid envelope >}}</a>
+    </td>
+    <td>ramirez.laura@rutgers.edu</td>
+  </tr>
+  
   <tr>
     <td style="text-align: right; padding-right: 10px;">
       <a href="mailto:rme70@scarletmail.rutgers.edu">{{< fa solid envelope >}}</a>
@@ -408,9 +414,5 @@ https://www.nj.gov/education/standards/worldlang/SealofBiliteracy.shtml
     </td>
     <td>\@RobertEspo</td>
   </tr>
+  
 </table>
-
-## References {visibility="uncounted"}
-
-::: {#refs .smaller}
-:::
