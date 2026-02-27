@@ -101,8 +101,8 @@ There are a lot of people who are bilingual in NJ; the majority of them are Span
 - En 2014, 1 de cada 5 trabajos pedía un hablante bilingüe
 
 ```{r}
-data.frame(
-  `Employer` = c(
+dat <- data.frame(
+  `Empresa` = c(
     "Bank of America",
     "H&R Block",
     "AT&T",
@@ -130,10 +130,9 @@ data.frame(
     "2.1%"
   ),
   check.names = FALSE
-) %>% flextable(.) %>%
-  align(align = "center", part = "all") %>%
-  bold(part = "header") %>%
-  autofit()
+) %>% kable()
+
+dat
   
 ```
 
