@@ -1,5 +1,5 @@
 ---
-title: "Lengua, trabajos y educación"
+title: "Ser bilingüe brinda mejores oportunidades académicas"
 author: "Robert Esposito y Dra. Laura Ramírez-Polo"
 institute: "Rutgers University"
 date: "Last update: `r Sys.Date()`"
@@ -48,6 +48,34 @@ theme_set(theme_grey(base_size = 30))
 ```
 
 # Fundamentos {.transition}
+
+##
+
+<center>
+**[¿Quiénes somos?]{.emph}**
+</center>
+
+- Somos RU Bilingual
+- Estudiantes graduados del departamento de español y portugués de la Universidad de Rutgers
+- Estudiamos el bilingüismo y la adquisición de una segunda lengua
+
+##
+
+<center>
+**[¿Qué hacemos?]{.emph}**
+</center>
+
+- Queremos que nuestra investigación sea útil para un público más amplio
+- Queremos crear un espacio seguro para debatir sobre el multilingüismo en nuestras comunidades
+
+##
+
+<center>
+**[Nuestros objetivos:]{.emph}**
+</center>
+
+- Apoyar y defender el bilingüismo en el hogar, en la escuela y en nuestra comunidad
+- Permitir que la investigación académica tenga más aplicaciones prácticas
 
 ## ¿Qué vamos a ver?
 
@@ -253,7 +281,7 @@ translation = written; interpretation = oral
 
 ## ¿Cómo hacerse traductor/intérprete?
 
-- Rutgers ofrece...
+- La Universidad de Rutgers ofrece...
   - un [certificado]{.emph} de traducción e interpretación
   - una [maestría]{.emph} de traducción e interpretación
   - un [B.A./M.A.]{.emph} de cinco años en traducción e interpretación
@@ -296,6 +324,59 @@ Comment on what "agencias de traducción/interpretación actually involves and t
   - no actuar por instinto 
   - saber las normas de la industria
   - tomar decisiones basadas en teorías
+  
+## Por ejemplo...
+
+- "Traducir" no es palabra por palabra
+  - Hay que pensar en el contexto de la frase
+
+::: fragment
+
+¿Qué opciones tenemos para la siguiente frase?
+
+<center>
+[I guess]{.emph} that he went to the store.
+</center>
+
+:::
+
+## 
+
+<center>
+[I guess]{.emph} that he went to the store
+
+[Adivino]{.emph} que él fue a la tienda.
+
+[Supongo]{.emph} que él fue a la tienda.
+
+</center>
+
+## Las éticas
+
+Hay que aprender las [éticas]{.emph} del campo
+
+¿Qué harías si...?
+
+::: fragment
+Estás interpretando en una clínica. Un paciente te dice que no tiene cómo llegar a casa. Te pide que lo lleves después de la cita con el doctor.
+
+:::
+
+## Consideraciones extralingüísticas {.smaller}
+
+- Hay que escoger una especialización
+- Aunque hablemos dos lenguas, siempre hay vocabulario y normas que no conocemos
+
+::: fragment
+
+La homeostasis glucémica está finamente regulada por una compleja interacción entre la señalización de la insulina y la sensibilidad periférica de los tejidos diana; sin embargo, en pacientes con resistencia a la insulina, se observa una disrupción en la fosforilación del receptor tirosina-quinasa, lo que desencadena una cascada de eventos que culmina en hiperglucemia crónica. Este estado patológico favorece la formación de productos finales de glicación avanzada (AGEs), los cuales inducen estrés oxidativo y disfunción endotelial, contribuyendo así al desarrollo de complicaciones microvasculares como la retinopatía y la nefropatía diabética. Además, la activación persistente de vías inflamatorias, mediada por citocinas como el TNF-α y la IL-6, agrava el deterioro metabólico y perpetúa un círculo vicioso de inflamación sistémica y daño tisular.
+
+:::
+
+## Consideraciones extralingüísticas {.smaller}
+
+- No solo tenemos que saber la definición de todas las palabras, sino también el tema en general
+- No podemos traducir o interpretar adecuadamente sin conocimiento especializada del campo
 
 # La lingüística {.transition}
 
@@ -333,20 +414,84 @@ Comment on what "agencias de traducción/interpretación actually involves and t
 ::: {.column width = "50%"}
 
 ![](assets/eeg.jpg)
+:::
+
+::: {.column width = "50%"}
 
 ![](assets/eyetracking.jpg)
 
 :::
+
 ::::
 
 ::: notes
 For example, using eeg or eye tracking.
 :::
 
-## La enseñanza
+## Función ejecutiva en bilingües
+
+Se ha encontrado que los bilingües tienen una mayor [función ejecutiva]{.emph} en comparación con los monolingües [@coderre2014electrophysiological]
+
+::: incremental
+
+Esto significa que los bilingües tienden a...
+- tener mejor control de impulsos
+- mantener más información en la memoria a corto plazo
+- cambiar entre tareas con mayor facilidad
+
+:::
+
+## ARESTY
+
+- Rutgers ofrece el programa de ARESTY
+- ARESTY conecta a estudiantes de pregrado de todas las disciplinas con investigadores
+- Los estudiantes realizan experimentos y analizan datos reales para llegar a conclusiones sobre el lenguaje
+
+![](assets/aresty.png)
+
+::: footer
+https://aresty.rutgers.edu/
+
+:::
+
+## ARESTY
+
+Los estudiantes han trabajado con...
+
+::: incremental
+
+- la Dra. Kendra Dickinson para investigar cómo el español de inmigrantes ha cambiado desde que llegaron a Estados Unidos
+- la Dra. Nuria Sagarra para investigar cómo estudiantes de español adquieren el género de sustantivos
+- el Dr. Joseph Casillas para investigar cómo estudiantes de español aprenden las diferencias entre declarativos y preguntas
+
+:::
+
+::: footer
+https://aresty.rutgers.edu/
+
+:::
+
+## ARESTY
+
+::: incremental 
+
+- Este programa les da la oportunidad de realizar [investigación acádemic real]{.emph}
+- Incluso si no sigue con el estudio de español, aprenden sobre... 
+  - el [método científico]{.emph}
+  - el [diseño de experimentos]{.emph}
+  - la [comunicación ciéntifica]{.emph}
+- Tales destrezas los ayudan en cualquier campo
+
+:::
+
+# La enseñanza {.transition}
+
+##
+
+![](assets/hs_grad.png)
 
 - En NJ y NYC hay una falta de maestros/as bilingües
-- Ofrecemos una [maestría]{.emph} en español para enseñar
+- Los estudiantes que aprenden inglés y tienen acceso a programas de [educación bilingüe]{.emph} tienden a [superar]{.emph} a otros estudiantes multilingües que aprenden solo en inglés
 
 ::: footer 
 https://www.chalkbeat.org/newyork/2024/10/21/new-york-bilingual-teacher-shortage/
@@ -354,7 +499,37 @@ https://span-port.rutgers.edu/mat/125-mat
 https://www.nj.gov/education/certification/cte/altroute/
 :::
 
-# La educación 
+##
+
+- Ofrecemos una [maestría]{.emph} en español para enseñar
+- Ofrecemos clases en línea, híbrido, o en el campus
+- Para solicitar al programa hay que tener...
+  - una licencia estándar para enseñar español, o
+  - un certificado de elegibilidad (o equivalente) para enseñar español mientras obtienes la licencia docente
+
+::: footer
+https://span-port.rutgers.edu/mat
+:::
+
+##
+
+:::: columns
+
+::: {.column width = "50%"}
+
+![](assets/mono_teacher.bmp)
+
+:::
+
+::: {.column width = "50%"}
+
+![](assets/bi_teacher.bmp)
+
+:::
+
+::::
+
+# La educación
 
 ## El sello de alfabetización bilingüe
 
