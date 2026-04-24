@@ -435,8 +435,11 @@ Se ha encontrado que los bilingües tienen una mayor [función ejecutiva]{.emph}
 ::: incremental
 
 Esto significa que los bilingües tienden a...
+
 - tener mejor control de impulsos
+
 - mantener más información en la memoria a corto plazo
+
 - cambiar entre tareas con mayor facilidad
 
 :::
@@ -590,3 +593,5 @@ https://www.nj.gov/education/standards/worldlang/SealofBiliteracy.shtml
   </tr>
   
 </table>
+
+## References

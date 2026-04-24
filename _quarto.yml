@@ -1,0 +1,9 @@
+project:
+  title: "Ser bilingüe brinda mejores oportunidades académicas"
+  render:
+    - "*.qmd"
+    - "!./docs/lit/"
+    - "README.qmd"
+
+bibliography: ./lit/education.bib
+csl: ./lit/apa.csl
